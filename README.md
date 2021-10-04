@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo ao meu perfil do Github. 👋
 
-- 🔭 Atualmente estou a procura de uma oportunidade de estágio.
+- 🔭 Estagiando: Desenvolvedor Full Stack na empresa Di2Win.
 - 🌱 Estudando: ReactJS, AngularCLI; NodeJS, Java, MySQL, MongoDB.
 
  <div>
