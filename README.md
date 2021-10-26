@@ -3,6 +3,9 @@
 - 🔭 Estagiando: Desenvolvedor Full Stack na empresa Di2Win.
 - 🌱 Estudando: ReactJS, AngularCLI; NodeJS, Java, MySQL, MongoDB.
 
+<p>Visitantes no Meu Perfil</p>
+<img src="https://profile-counter.glitch.me/gmadeiradev/count.svg">
+
  <div>
   <a href="https://github.com/gmadeiradev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmadeiradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
