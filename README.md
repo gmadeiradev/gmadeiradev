@@ -1,7 +1,7 @@
 ### Olá! Seja bem vindo ao meu perfil do Github. 👋
 
 - 🔭 Estagiando: Desenvolvedor Full Stack na empresa Di2Win.
-- 🌱 Estudando: AngularCLI; NodeJS, Java, MySQL.
+- 🌱 Estudando: AngularCLI; NodeJS, Java, MySQL, PostgreSQL, MongoDB.
 
 <p>Visitantes no Meu Perfil</p>
 <img src="https://profile-counter.glitch.me/gmadeiradev/count.svg">
