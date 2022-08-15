@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo ao meu perfil do Github. 👋
 
-- 🔭 Estagiando: Desenvolvedor Full Stack na empresa Di2Win.
+- 🔭 Desenvolvedor Full Stack Jr na empresa Di2Win.
 - 🌱 Estudando: AngularCLI; NodeJS, Java, MySQL, PostgreSQL, MongoDB.
 
 <p>Visitantes no Meu Perfil</p>
