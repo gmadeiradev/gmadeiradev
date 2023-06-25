@@ -1,6 +1,6 @@
 ### Olá! Seja bem vindo ao meu perfil do Github. 👋
 
-- 🔭 Desenvolvedor Full Stack Jr na empresa Di2Win.
+- 🔭 Coordenador de Integração - Di2Win.
 - 🌱 Estudando: AngularCLI; NodeJS, Java, MySQL, PostgreSQL, MongoDB.
 
 <p>Visitantes no Meu Perfil</p>
@@ -19,7 +19,6 @@
   <img align="center" alt="madeira-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
   <img align="center" alt="madeira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="madeira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="madeira-python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
   ##
